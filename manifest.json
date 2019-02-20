@@ -1,0 +1,14 @@
+{
+    "name": "Date Tree",
+    "version": "1.2",
+    "manifest_version": 2,
+    "description": "Organizes your bookmarks into a tree of dates.",
+    "permissions": [
+        "bookmarks"
+    ],
+    "browser_action": {
+        "default_title": "Date Tree",
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+}
